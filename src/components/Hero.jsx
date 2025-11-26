@@ -107,7 +107,7 @@ export default function Hero() {
                   display: "block",
                   background: "transparent",
                 }}
-                // src="/models/low_poly_man_working_at_a_table_with_a_laptop.glb"
+                src="/models/low_poly_man_working_at_a_table_with_a_laptop.glb"
                 poster="/mnt/data/da33e421-359b-4271-b5dd-ebcc48ced254.png"
                 alt="3D developer model"
                 auto-rotate
